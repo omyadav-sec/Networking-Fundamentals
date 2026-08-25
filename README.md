@@ -28,6 +28,7 @@ The objective of this repository is to build strong networking fundamentals and 
 📈 Learning Progress
 
 - [x] Computer Networks
+- [x] Network Types
 - [ ] OSI Model
 - [ ] TCP/IP Model
 - [ ] IP Addressing
